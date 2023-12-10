@@ -4,8 +4,7 @@ This repository contains Solidity smart contracts for an ArtSprint decentralized
 # Contracts
 # 1. MyERC721.sol
 This contract is an ERC-721 token contract representing unique art assets. It provides functionality to create new tokens with associated metadata.
-* Key Functions:
-  createToken: Creates a new ERC-721 token and assigns it to a specified recipient.
+* createToken: Creates a new ERC-721 token and assigns it to a specified recipient.
 
 # 2. ArtSprint.sol
 The ArtSprint contract manages art projects, investments, and the overall functionality of the ArtSprint platform. Users can create projects, invest in projects, and track their contributions.
